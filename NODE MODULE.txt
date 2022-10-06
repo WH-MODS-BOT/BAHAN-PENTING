@@ -1,0 +1,7 @@
+Module 1 :
+https://www.mediafire.com/file/pyece2dldyjdu8e/module+v1.rar/file
+
+Module 2 :
+https://www.mediafire.com/file/q5u1ietenf0kx6d/node_modules.rar/file
+
+📌 Fungsi module buat yang jalanin bot nya di termux/website yang membutuh module, itu gw sediakan 2 versi , kalau kgk bisa yang ke1 pakai yang ke 2🗿
